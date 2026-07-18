@@ -1,4 +1,4 @@
-const CACHE_NAME = "melt-calc-v1";
+const CACHE_NAME = "melt-calc-v3";
 const ASSETS = [
   "./index.html",
   "./manifest.json",
